@@ -63,9 +63,7 @@ export function HangmanDrawing() {
     {RIGHT_ARM}
     {LEFT_ARM}
     {RIGHT_LEG}
-
     {LEFT_LEG}
-
     {/* the scaffold of the game */}
     <div style={{ height: '50px', width: '10px', background: 'black', top: 0, right: 0, position: 'absolute' }} />
     <div style={{ height: '10px', width: '200px', background: 'black', marginLeft: '120px' }} />
